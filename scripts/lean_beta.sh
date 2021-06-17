@@ -80,9 +80,9 @@ svn co https://github.com/immortalwrt/immortalwrt/branches/openwrt-18.06-k5.4/pa
 svn co https://github.com/immortalwrt/immortalwrt/branches/openwrt-18.06-k5.4/package/kernel/rtl88x2bu
 
 # Add dafeiji
-svn co https://github.com/immortalwrt/immortalwrt/branches/master/package/lean/luci-app-cpufreq
-svn co https://github.com/281677160/openwrt-package/trunk/cpulimit
-svn co https://github.com/281677160/openwrt-package/trunk/luci-app-cpulimit
+# svn co https://github.com/immortalwrt/immortalwrt/branches/master/package/lean/luci-app-cpufreq
+# svn co https://github.com/281677160/openwrt-package/trunk/cpulimit
+# svn co https://github.com/281677160/openwrt-package/trunk/luci-app-cpulimit
 
 # Add luci-udptools
 svn co https://github.com/zcy85611/Openwrt-Package/trunk/luci-udptools
