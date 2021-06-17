@@ -63,8 +63,8 @@ git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
 rm -rf ../lean/luci-theme-argon
 
 # Add luci-app-smartdns & smartdns
-svn co https://github.com/281677160/openwrt-package/trunk/luci-app-smartdns
-svn co https://github.com/281677160/openwrt-package/trunk/smartdns
+svn co https://github.com/281677160/openwrt-package/trunk/feeds/luci/applications/luci-app-smartdns
+svn co https://github.com/281677160/openwrt-package/trunk/feeds/packages/net/smartdns
 
 # Add luci-app-aliddns
 svn co https://github.com/281677160/openwrt-package/trunk/luci-app-aliddns
@@ -93,7 +93,7 @@ svn co https://github.com/zcy85611/Openwrt-Package/trunk/udpspeeder-tunnel
 svn co https://github.com/openwrt/luci/trunk/applications/luci-app-wireguard
 
 # Add OpenAppFilter
-git clone --depth=1 https://github.com/destan19/OpenAppFilter
+#git clone --depth=1 https://github.com/destan19/OpenAppFilter
 popd
 
 # Add CPUInfo
