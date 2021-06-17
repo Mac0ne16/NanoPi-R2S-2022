@@ -15,7 +15,6 @@
 - 稳定版 https://cowtransfer.com/s/80b12897a38841
 - 测试版超时
 - 电报群：https://t.me/DHDAXCW
-- TG频道：https://t.me/FWR2SR4S
 # 赏个鸡腿吧
  ![捐赠](data/2.jpg?raw=true "Title")
 ### 如果你觉得此项目对你有帮助，可以捐助我们，以鼓励项目能持续发展，更加完善
